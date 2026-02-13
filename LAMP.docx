@@ -1,0 +1,23 @@
+What LAMP Stack Means
+
+The LAMP stack is a widely used open-source software stack for building, hosting, and running dynamic web applications. The acronym “LAMP” stands for:
+
+L – Linux: the operating system that provides the foundation for the stack.
+
+A – Apache: the web server software that handles HTTP requests and serves web pages.
+
+M – MySQL: a relational database management system used to store and manage data.
+
+P – PHP: a server-side scripting language used to generate dynamic content.
+
+Each component works together to deliver dynamic web content: Apache receives requests from a user’s browser, PHP processes server-side logic, MySQL stores and retrieves data, and Linux underpins the entire environment.
+
+Although PHP is the most common scripting language in LAMP, Perl or Python can also be used in its place.
+
+Why LAMP Is Popular
+
+It’s entirely open-source and free, lowering development costs.
+
+It provides a stable and flexible platform well-suited for web development.
+
+Many popular web applications (like WordPress and Drupal) use the LAMP stack.
